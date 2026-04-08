@@ -1,11 +1,64 @@
-<h1 align="center">Hi 👋, I'm Ayush Pal</h1>
-<h3 align="center">A passionate backend and AI/ ML developer</h3>
+<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h3 align="center">🚀 Backend Developer | Python | Django | AI Enthusiast</h3>
 
-- 📫 How to reach me **ayushpal4369@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 👨‍💻 About Me
+
+* 🎓 Final-year B.Tech CSE student
+* 💻 Focused on **Backend Development (Python + Django)**
+* 🤖 Exploring **AI & Data-driven applications**
+* 🌱 Currently learning: **System Design & Advanced Backend**
+* 🎯 Goal: To build scalable and impactful products
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Languages
+
+* Python 🐍
+* Java ☕
+* SQL 🗄️
+
+### ⚙️ Backend & Tools
+
+* Django
+* REST APIs
+* Git & GitHub
+* Postman
+
+### 🤖 Other Interests
+
+* AI / Machine Learning
+* Data Analysis
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn:https://www.linkedin.com/in/ayush-pal-873380253/
+* 📧 Email: ayushpal4369@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+> I love solving real-world problems with code 🚀
+
+---
+
+⭐ *“Consistency > Motivation”*
+
